@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jess Tampa Remodeling & Sliding doors LLC - Remodeling Contractors News</title>
+    <link>https://{username}.github.io/{repo}</link>
+    <description>Latest remodeling contractors news and tips from Jess Tampa Remodeling & Sliding doors LLC in Land O' Lakes, FL.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 May 2026 14:54:48 GMT</lastBuildDate>
+    <atom:link href="https://{username}.github.io/{repo}/feed.xml" rel="self" type="application/rss+xml"/>
+    <managingEditor>jessflawless117@gmail.com (Jess Tampa Remodeling & Sliding doors LLC)</managingEditor>
+    <webMaster>jessflawless117@gmail.com (Jess Tampa Remodeling & Sliding doors LLC)</webMaster>
+    
+  </channel>
+</rss>
